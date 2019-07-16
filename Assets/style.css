@@ -24,3 +24,10 @@ form{
 .card{
     border: 2px slategray solid;
 }
+
+.btn-secondary{
+    margin: 3px;
+    padding-bottom: 10px;
+vertical-align: middle;
+}
+
