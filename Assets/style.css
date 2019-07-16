@@ -17,3 +17,10 @@ color: white;
 #buttonsRow{
     margin: 5px;
 }
+form{
+    padding: 10px;
+}
+
+.card{
+    border: 2px slategray solid;
+}
