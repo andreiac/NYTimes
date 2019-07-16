@@ -3,6 +3,17 @@
 background-color: #21325A;
 color: white;
 text-align: center;
-font-family: Arial, Helvetica, sans-serif;
+font-family: 'Lalezar', cursive;  }
 
+body {
+    margin: 0px 10px 0px 10px;
+}
+
+#searchParameters{
+    background-color: #21325A;
+color: white;
+}
+
+#buttonsRow{
+    margin: 5px;
 }
